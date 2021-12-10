@@ -1,0 +1,72 @@
+.navbar-brand{
+  margin-right: auto;
+  font-family: monospace;
+}
+.jumbotron{
+  background: opacity;
+  color: white;
+}
+.background{
+  background-image: url(https://t4.ftcdn.net/jpg/02/24/51/53/360_F_224515382_RdooMfTyGSLFU0C3Pfk2rbjVqUy1UrZl.jpg);
+  background-size: cover;
+}
+.container{
+  color: white;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.btn-dark:hover {
+  background-color: blue;
+  color: white;
+}
+.disc-1{
+  background-color: black;
+  color: white;
+}
+.row-3{
+  color: black;
+}
+.center{
+  text-align: center;
+  font-family: monospace;
+}
+.form {
+  background-image: url("https://cdn5.vectorstock.com/i/thumb-large/40/09/gym-club-neon-label-vector-27134009.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+
+.form{
+  color: blue;
+}
+.row-2{
+ padding-left: 380px;
+ padding-right: 100px;
+}
+.grind-1{
+  background-color: black;
+}
+.card-3{
+  color: white;
+}
+.float-wrapper{
+  float:right;
+  clear: both;
+  display: block;
+  margin-right: 120px;
+}
+.accordion-body{
+  background-color: black;
+  color: white;
+}
+.accordion-item{
+  background-color: blue;
+}
